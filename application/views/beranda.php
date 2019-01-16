@@ -11,10 +11,13 @@
   <!--HEADER-->
   <header class="ob">
     <div class="atas">
-      <div id="logo"><img style="width: 100px;margin-left: 10px;float: left; margin-top: 15px;"
-      src="<?=base_url()?>asset/logo.png" alt=""></div>
+      <div id="logo">
+        <img style="width: 100px;margin-left: 10px;float: left; margin-top: 15px;"
+      src="<?=base_url()?>asset/logo.png" alt="">
+    </div>
         <nav>
           <ul>
+            
             <li><a href="<?=base_url()?>index.php/welcome/utama">Home</a></li>
             <li><a href="<?=base_url()?>index.php/welcome/event">Event</a></li>
             <li><a href="<?=base_url()?>index.php/welcome/gallery">Gallery</a></li>
@@ -33,6 +36,7 @@
     <p style="font-size: 18px;margin-left: 56px;margin-top: 39px; color:black;">Tahukah kamu ?
       <br>
       <br>
+      
         Tari merupakan gerakan-gerakan yang dilakukan oleh manusia sebagai ungkapan perasaan dan jiwa seseorang.
       Lebih lanjut jenis kesenian tradisional ini kemudian diiringi dengan tabuhan alat musik serta lagu sebagai pendukungnya.
       Dengan kata lain Tari adalah gerakan tubuh yang dilakukan secara berirama pada waktu dan tempat tertentu sebagai wujud dari
