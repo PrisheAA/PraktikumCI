@@ -1,0 +1,14 @@
+body{
+  font-family: monospace;
+  font-style: italic;
+  font-size: 10mm;
+  background: linear-gradient(#800000, #F08080, #FFE4E1 );
+}
+.box{
+  margin: 30px 30px 30px;
+  background-color:#F5F5F5;
+  font-family: monospace;
+  font-style: italic;
+  font-size: 5mm;
+  background-color: cadetblue;
+  }
